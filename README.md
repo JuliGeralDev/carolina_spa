@@ -6,7 +6,7 @@ Carolina Spa is a *study project* developed as part of a front-end course. It is
 
 ## 🔗 Live Preview
 
-[👉 View the Demo on Netlify](https://nucleus-juligeraldev.netlify.app/)
+[👉 View the Demo on Netlify](https://carolinaspa-juligeraldev.netlify.app/)
 ## ✨ Features
 
 - Responsive Design using SCSS media queries to ensure smooth display across all screen sizes  
